@@ -13,3 +13,9 @@
 <a href="https://www.furaffinity.net/user/tangeruff" target=_blank style="text-decoration:none;">
     <img src="icons/fa.png" width=32 height=32>
 </a>
+<a href="https://t.me/tangeruff" target=_blank style="text-decoration:none;">
+    <img src="icons/tg.png" width=32 height=32>
+</a>
+<a href="https://steamcommunity.com/id/tangeruff/" target=_blank style="text-decoration:none;">
+    <img src="icons/steam.png" width=32 height=32>
+</a>
